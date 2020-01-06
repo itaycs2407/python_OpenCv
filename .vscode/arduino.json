@@ -1,0 +1,6 @@
+{
+    "port": "COM6",
+    "board": "arduino:avr:uno",
+    "sketch": "app.ino",
+    "programmer": "Arduino Gemma"
+}
